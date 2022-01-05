@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 🚂 Ruby on Rails developper
+- ⚛️ Learn React
 - 🌍 Scientific diver
