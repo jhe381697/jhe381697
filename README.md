@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 - 🚂 Ruby on Rails developper
 - ⚛️ React developper
+- 🅰️ Learn Angular
 - 🌍 Scientific diver
