@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🚂 Ruby on Rails developper
-- ⚛️ React developper
-- 🅰️ Learn Angular
+- 🅰️ Angular developper
 - 🌍 Scientific diver
 - https://jhe381697.github.io/
