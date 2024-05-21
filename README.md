@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚂 Ruby on Rails developper
-- 🅰️ Angular developper
+- 🚂 Ruby on Rails developer
+- 🅰️ Angular developer
 - 🌍 Scientific diver
 - https://jhe381697.github.io/
